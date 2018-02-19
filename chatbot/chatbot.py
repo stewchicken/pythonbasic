@@ -14,5 +14,5 @@ for file in os.listdir('files'):
 while True:
     request = input("You: ")
     response = bot.get_response(request)
-    print(response)
+    print("bot: "+ str(response))
 

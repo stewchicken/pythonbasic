@@ -1,4 +1,3 @@
-Conversation about a brief conversation between 2 old friends meeting by chance at a cafe
 Sarah: Hello Jason, how are you, it's been a long time since we last met?
 Jason: Oh, hi Sarah I'm have got a new job now and is going great. How about you?
 Sarah: Not too bad.
@@ -7,7 +6,6 @@ Sarah: This is my first time my friends kept telling me the food was great, so t
 Jason: I have been so busy with my new job that I have not had the time to do much else, but otherwise, me and the family are all fine.
 Sarah: Well, I hope you and your family have a lovely meal.
 Jason: Yes you too.
-Conversation about two people asking each other what they do for a living.
 David: Hello, my name is David It's nice to meet you.
 Jenny: Hi, I'm Jenny. It's my please to meet you.
 David: Am sorry. what was your name again?
