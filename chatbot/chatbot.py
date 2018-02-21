@@ -4,7 +4,7 @@ from chatterbot import ChatBot # import the chatbot
 import os
 
 bot = ChatBot('TestBot') # create the chatbot
-bot.set_trainer(ListTrainer)# set the trainer
+bot.set_trainer(ListTrainer)# set the trainer test
 
 for file in os.listdir('files'):
     chat = open('files/'+file, 'r').readlines()
